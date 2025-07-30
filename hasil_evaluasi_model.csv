@@ -1,0 +1,34 @@
+Metric,Value,Method,Kernel/Fold
+Accuracy,0.8379888268156425,Cross Validation,Fold 1
+Precision,0.8390982922450649,Cross Validation,Fold 1
+Recall,0.8379888268156425,Cross Validation,Fold 1
+Accuracy,0.8268156424581006,Cross Validation,Fold 2
+Precision,0.8383080606544293,Cross Validation,Fold 2
+Recall,0.8268156424581006,Cross Validation,Fold 2
+Accuracy,0.7988826815642458,Cross Validation,Fold 3
+Precision,0.8007307015883616,Cross Validation,Fold 3
+Recall,0.7988826815642458,Cross Validation,Fold 3
+Accuracy,0.8100558659217877,Cross Validation,Fold 4
+Precision,0.8072599714174352,Cross Validation,Fold 4
+Recall,0.8100558659217877,Cross Validation,Fold 4
+Accuracy,0.7430167597765364,Cross Validation,Fold 5
+Precision,0.7374864714383129,Cross Validation,Fold 5
+Recall,0.7430167597765364,Cross Validation,Fold 5
+Accuracy,0.8156424581005587,Cross Validation,Fold 6
+Precision,0.8118213001415903,Cross Validation,Fold 6
+Recall,0.8156424581005587,Cross Validation,Fold 6
+Accuracy,0.8715083798882681,Cross Validation,Fold 7
+Precision,0.8700912531332426,Cross Validation,Fold 7
+Recall,0.8715083798882681,Cross Validation,Fold 7
+Accuracy,0.797752808988764,Cross Validation,Fold 8
+Precision,0.7933109928379,Cross Validation,Fold 8
+Recall,0.797752808988764,Cross Validation,Fold 8
+Accuracy,0.7808988764044944,Cross Validation,Fold 9
+Precision,0.7843835408442149,Cross Validation,Fold 9
+Recall,0.7808988764044944,Cross Validation,Fold 9
+Accuracy,0.7752808988764045,Cross Validation,Fold 10
+Precision,0.792454736274961,Cross Validation,Fold 10
+Recall,0.7752808988764045,Cross Validation,Fold 10
+Accuracy,0.8057843198794803,Cross Validation,Average
+Precision,0.8074945320575513,Cross Validation,Average
+Recall,0.8057843198794803,Cross Validation,Average
